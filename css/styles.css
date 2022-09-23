@@ -69,6 +69,7 @@ margin-top: 140px;
 .bottomcontainer{
 margin: auto;
   font-size: 50px;
+  
 }
 .top-cloud{
 position: absolute;
@@ -121,7 +122,7 @@ margin: 6%;
   background-color: #CDF0EA;
   padding-top:  20px;
   margin-top: 116px;
-  width: 102%;
+  width: 105%;
   }
 .footer-link{
 margin: 30px;
