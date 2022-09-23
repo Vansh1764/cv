@@ -48,7 +48,7 @@ h3{
   margin-left: 355px;
   text-align: left;
   line-height: 2;
-  font-size: 30px;
+  font-size: 50px;
 }
 .skill-row h3{
 font-size: 2rem;
@@ -159,6 +159,7 @@ hr{
       margin-left: 144px;
       text-align: left;
       line-height: 2;
+  font-size:50px;
 }
 .skill-column{
   margin-top: 200px;
