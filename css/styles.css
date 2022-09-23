@@ -83,6 +83,7 @@ top: 60px;
 .ab{
   float: left;
 margin: 6%;
+  margin-top:246px;
 }
 .png{
   height: 250px;
@@ -154,6 +155,7 @@ hr{
   height: 290px;
   float: right;
   margin-right: 60px;
+  margin-top:140px;
 }
 .skill-column p{
       width: 1372px;
