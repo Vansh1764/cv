@@ -1,3 +1,7 @@
+body{
+  height: 100%;
+  width: 150%;
+}
 a{
   color: #11999E;
     font-family: 'Baloo Bhai 2', cursive;
@@ -48,7 +52,7 @@ h3{
 }
 .skill-row h3{
 font-size: 2rem;
-margin: auto auto auto 46.5%;
+margin: auto auto auto 90.5%;
 }
 
 .topcontainer{
@@ -58,10 +62,12 @@ margin: auto auto auto 46.5%;
   width: 100%
 }
 .middle-container{
-margin: 100px 0px;
+margin: auto;
+top: 20px;
+margin-top: 140px;
 }
 .bottomcontainer{
-
+margin: auto;
 }
 .top-cloud{
 position: absolute;
@@ -112,6 +118,8 @@ margin: 6%;
 .bottom-container{
   background-color: #CDF0EA;
   padding-top:  20px;
+  margin-top: 116px;
+  width: 102%;
   }
 .footer-link{
 margin: 30px;
@@ -122,11 +130,11 @@ color: #11999E;
 color: #646FD4;
   margin-bottom: 0px; */
   padding: 20px 0;
-  font-size: 1.05rem
+
 }
 .get{
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 40px auto 130px;
 
 }
 .intro{
@@ -142,22 +150,24 @@ hr{
 .abc{
   height: 290px;
   float: right;
-  margin-right: 100px;
+  margin-right: 60px;
 }
 .skill-column p{
-  width: 1000px;
-  font-size: 30px;
-  line-height: 2;
-  margin-left: 50px;
+      width: 1372px;
+      margin-left: 144px;
+      text-align: left;
+      line-height: 2;
 }
 .skill-column{
   margin-top: 200px;
-  font-size: 2rem;
+
   align:right;
   width: 100%;
 }
 .skill-column h3{
   text-align: right;
   margin-right: 530.737px;
-  margin-left: 910px;
+  margin-left: 860px;
+}
+
 }
